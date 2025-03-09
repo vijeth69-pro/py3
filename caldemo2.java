@@ -1,4 +1,4 @@
-//calculator srp
+//calculator using single responsibility principle
 class calculator
 {
 public static int add(int x,int y)
